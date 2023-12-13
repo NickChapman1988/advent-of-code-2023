@@ -4,4 +4,9 @@
 
 ## Day 1
 
-* Puzzle 1: [Trebuchet?!](day_1/puzzle_1/trebuchet.md) ✅
+* Puzzle 1: [Trebuchet?!](day_1/puzzle_1/trebuchet1.md) ✅
+* Puzzle 2: [Trebuchet?!](day_1/puzzle_2/trebuchet2.md)
+
+## Day 2
+
+* Puzzle 1: [Cube Conundrum](day_2/puzzle_1/cubeconundrum1.md) 
