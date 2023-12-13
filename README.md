@@ -10,4 +10,5 @@
 ## Day 2
 
 * Puzzle 1: [Cube Conundrum](day_2/puzzle_1/cubeconundrum1.md) ✅
-* Puzzle 2: [Cube Conundrum(day_2/puzzle_2/cubeconundrum2.md)]
+* Puzzle 2: [Cube Conundrum(day_2/puzzle_2/cubeconundrum2.md)] ✅
+
