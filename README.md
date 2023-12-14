@@ -15,3 +15,8 @@
 ## Day 3
 
 * Puzzle 1: [Gear Ratios](day_3/puzzle_1/gearratios1.md)
+
+## Day 4
+
+* Puzzle 1: [Scratchcards](day_4/puzzle_1/scratchcards_1.md) ✅
+* Puzzle 2: [Scratchcards](day_4/puzzle_2/scratchcards_2.md)
