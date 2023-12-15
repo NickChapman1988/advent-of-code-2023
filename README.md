@@ -20,3 +20,7 @@
 
 * Puzzle 1: [Scratchcards](day_4/puzzle_1/scratchcards_1.md) ✅
 * Puzzle 2: [Scratchcards](day_4/puzzle_2/scratchcards_2.md)
+
+## Day 5
+
+* Puzzle 1: [If You Give a Seed A Fertilizer](day_5/puzzle_1/fertilizer1.md)
