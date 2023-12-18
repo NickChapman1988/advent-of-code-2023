@@ -24,3 +24,8 @@
 ## Day 5
 
 * Puzzle 1: [If You Give a Seed A Fertilizer](day_5/puzzle_1/fertilizer1.md)
+
+## Day 6
+
+* Puzzle 1: [Wait For It](day_6/puzzle_1/waitforit1.md) ✅
+* Puzzle 2: [Wait For It](day_6/puzzle_2/waitforit2.md) ✅
