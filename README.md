@@ -29,3 +29,11 @@
 
 * Puzzle 1: [Wait For It](day_6/puzzle_1/waitforit1.md) ✅
 * Puzzle 2: [Wait For It](day_6/puzzle_2/waitforit2.md) ✅
+
+## Day 7
+
+* Puzzle 1: [Camel Cards](day_7/puzzle_1/camel_cards1.md)
+
+## Day 8
+
+* Puzzle 1: [Haunted Wasteland](day_8/puzzle_1/haunted_wasteland1.md)
