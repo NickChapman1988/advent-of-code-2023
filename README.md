@@ -37,3 +37,7 @@
 ## Day 8
 
 * Puzzle 1: [Haunted Wasteland](day_8/puzzle_1/haunted_wasteland1.md)
+
+## Day 9
+
+* Puzzle 1: [Mirage Maintenance](day_9/puzzle_1/mirage_maintenance1.md)
